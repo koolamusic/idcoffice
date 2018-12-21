@@ -1,0 +1,34 @@
+No 1: 
+
+Expected Payments are not showing in the INCOMING PLEDGE. INCOMING PLEDGE is supposed to show how much you are expecting as payment even if your name has not been published in the list yet
+--DONE
+
+
+No 2: 
+
+COMPLETED TRANSACTION erases after the person has been paid. It's supposed to always be in the INCOMING PLEDGE so that people can always go back to check their transaction history
+--DONE
+
+
+No 3: 
+
+I want to be able to change the percentage of each plan. For example, if i want to change the Basic Plan from 50% to 100%. It should be editable from the Admin Panel
+--DONE
+
+
+No 4: Referral link is not working
+--DONE
+
+
+No 5: Names still remains on the pledge list when they are been picked. They are supposed to erased from the list once people pick them. And there is no way to delete them from the admin panel
+---DONE
+
+No 6: DELETE BUTTON on Matched Pledges are not working --
+---DONE
+
+No 7: 
+
+I forgot to add one more thing. The AMOUNT SPLITTING does not work properlly. I will send u a screenshot now of a transaction that was supposed to be 65,000. One person picked 50,000 while the other picked 15,000, But the 2 transactions are showing 65,000 each, instead of 50,000 and 15,000 respectively
+
+No 8: When a member is blocked, he should be able to login but not be able to do anything except to contact support
+
