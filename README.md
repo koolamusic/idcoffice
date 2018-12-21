@@ -22,6 +22,6 @@ This project was built on top of the LAMP Stack, and so you will need the follow
 
 
 ### Licence
-MIT
+GPLv3
 
 
